@@ -1,4 +1,4 @@
-Datapack [armor statues v2.8.3] = {
+Datapack [armor statues v2.8.3] (13 objectives)= {
     name = as_angle        | type = dummy  
     name = as_edited_uuid1 | type = dummy  
     name = as_edited_uuid2 | type = dummy  
@@ -13,7 +13,7 @@ Datapack [armor statues v2.8.3] = {
     name = as_trigger      | type = trigger
     name = if_invisible    | type = trigger
 },
-Datapack [blingedit+v1.0.6] = {
+Datapack [blingedit+v1.0.6] (295 objectives)= {
     name = Constant        | type = dummy                                     
     name = Param0          | type = dummy                                     
     name = _age            | type = dummy                                     
@@ -310,11 +310,11 @@ Datapack [blingedit+v1.0.6] = {
     name = zmax            | type = dummy                                     
     name = zmin            | type = dummy                                     
 },
-Datapack [EconomyPlus Plugin - [Bounty]] = {
+Datapack [EconomyPlus Plugin - [Bounty]] (0 objectives)= {
 },
-Datapack [EconomyPlus Plugin - [Loot]] = {
+Datapack [EconomyPlus Plugin - [Loot]] (0 objectives)= {
 },
-Datapack [EconomyPlus Plugin - [Travel]] = {
+Datapack [EconomyPlus Plugin - [Travel]] (7 objectives)= {
     name = ep.pre_tp       | type = dummy  
     name = ep.tp_cooldown  | type = dummy  
     name = ep.tp_cooldown1 | type = dummy  
@@ -323,7 +323,7 @@ Datapack [EconomyPlus Plugin - [Travel]] = {
     name = ep.tp_cooldown4 | type = dummy  
     name = travel          | type = trigger | display = {"text": "Travel"}
 },
-Datapack [EconomyPlus v8.0] = {
+Datapack [EconomyPlus v8.0] (58 objectives)= {
     name = auction          | type = trigger                                       | display = {"text": "Auction"}
     name = balance          | type = trigger                                       | display = {"text": "Balance"}
     name = bank             | type = trigger                                       | display = {"text": "Bank"}
@@ -383,7 +383,7 @@ Datapack [EconomyPlus v8.0] = {
     name = settings         | type = trigger                                       | display = {"text": "Settings"}
     name = status           | type = trigger                                       | display = {"text": "Status"}
 },
-Datapack [track raw statistics v1.5.2] = {
+Datapack [track raw statistics v1.5.2] (209 objectives)= {
     name = ts_AnimalsBred   | type = minecraft.custom:minecraft.animals_bred                 | display = "Animals Bred"
     name = ts_Aviate        | type = minecraft.custom:minecraft.aviate_one_cm                | display = "Aviate"
     name = ts_BreakAxe      | type = minecraft.broken:minecraft.diamond_axe                  | display = "Break Diamond Axe"
@@ -594,7 +594,7 @@ Datapack [track raw statistics v1.5.2] = {
     name = ts_VillagerTrade | type = minecraft.custom:minecraft.traded_with_villager         | display = "Villager Trade"
     name = ts_Walk          | type = minecraft.custom:minecraft.walk_one_cm                  | display = "Walk"
 },
-Datapack [track statistics v1.1.3] = {
+Datapack [track statistics v1.1.3] (46 objectives)= {
     name = hc_MineCoal         | type = dummy                                            | display = "Mine All Coal"
     name = hc_MineCoalShow     | type = dummy                                            | display = "Show Mined Coal Ore"
     name = hc_MineCopper       | type = dummy                                            | display = "Mine All Copper"
