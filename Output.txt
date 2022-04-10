@@ -1,0 +1,644 @@
+Datapack [armor statues v2.8.3] = {
+    name = as_angle        | type = dummy  
+    name = as_edited_uuid1 | type = dummy  
+    name = as_edited_uuid2 | type = dummy  
+    name = as_edited_uuid3 | type = dummy  
+    name = as_edited_uuid4 | type = dummy  
+    name = as_help         | type = trigger
+    name = as_lock_uuid1   | type = dummy  
+    name = as_lock_uuid2   | type = dummy  
+    name = as_lock_uuid3   | type = dummy  
+    name = as_lock_uuid4   | type = dummy  
+    name = as_pose         | type = dummy  
+    name = as_trigger      | type = trigger
+    name = if_invisible    | type = trigger
+},
+Datapack [blingedit+v1.0.6] = {
+    name = Constant        | type = dummy                                     
+    name = Param0          | type = dummy                                     
+    name = _age            | type = dummy                                     
+    name = _center_0       | type = dummy                                     
+    name = _center_1       | type = dummy                                     
+    name = _center_2       | type = dummy                                     
+    name = _cursor_0       | type = dummy                                     
+    name = _cursor_1       | type = dummy                                     
+    name = _cursor_2       | type = dummy                                     
+    name = _delta_0        | type = dummy                                     
+    name = _delta_1        | type = dummy                                     
+    name = _delta_2        | type = dummy                                     
+    name = _dest_max_0     | type = dummy                                     
+    name = _dest_max_1     | type = dummy                                     
+    name = _dest_max_2     | type = dummy                                     
+    name = _dest_min_0     | type = dummy                                     
+    name = _dest_min_1     | type = dummy                                     
+    name = _dest_min_2     | type = dummy                                     
+    name = _dpos_0         | type = dummy                                     
+    name = _dpos_1         | type = dummy                                     
+    name = _dpos_2         | type = dummy                                     
+    name = _id             | type = dummy                                     
+    name = _look_0         | type = dummy                                     
+    name = _look_1         | type = dummy                                     
+    name = _look_2         | type = dummy                                     
+    name = _max_0          | type = dummy                                     
+    name = _max_1          | type = dummy                                     
+    name = _max_2          | type = dummy                                     
+    name = _min_0          | type = dummy                                     
+    name = _min_1          | type = dummy                                     
+    name = _min_2          | type = dummy                                     
+    name = _move_by_0      | type = dummy                                     
+    name = _move_by_1      | type = dummy                                     
+    name = _move_by_2      | type = dummy                                     
+    name = _movement_0     | type = dummy                                     
+    name = _movement_1     | type = dummy                                     
+    name = _movement_2     | type = dummy                                     
+    name = _moving_pos_0   | type = dummy                                     
+    name = _moving_pos_1   | type = dummy                                     
+    name = _moving_pos_2   | type = dummy                                     
+    name = _offset_0       | type = dummy                                     
+    name = _offset_1       | type = dummy                                     
+    name = _offset_2       | type = dummy                                     
+    name = _rand_max_0     | type = dummy                                     
+    name = _rand_max_1     | type = dummy                                     
+    name = _rand_max_2     | type = dummy                                     
+    name = _rand_min_0     | type = dummy                                     
+    name = _rand_min_1     | type = dummy                                     
+    name = _rand_min_2     | type = dummy                                     
+    name = _size_0         | type = dummy                                     
+    name = _size_1         | type = dummy                                     
+    name = _size_2         | type = dummy                                     
+    name = _start_pos_0    | type = dummy                                     
+    name = _start_pos_1    | type = dummy                                     
+    name = _start_pos_2    | type = dummy                                     
+    name = _unique         | type = dummy                                     
+    name = absorption      | type = dummy                                     
+    name = bottom_center   | type = dummy                                     
+    name = box_center_x    | type = dummy                                     
+    name = box_center_y    | type = dummy                                     
+    name = box_center_z    | type = dummy                                     
+    name = box_size_x      | type = dummy                                     
+    name = box_size_y      | type = dummy                                     
+    name = box_size_z      | type = dummy                                     
+    name = box_xmax        | type = dummy                                     
+    name = box_xmin        | type = dummy                                     
+    name = box_ymax        | type = dummy                                     
+    name = box_ymin        | type = dummy                                     
+    name = box_zmax        | type = dummy                                     
+    name = box_zmin        | type = dummy                                     
+    name = can_cancel      | type = dummy                                     
+    name = can_do          | type = dummy                                     
+    name = carrot_on_stick | type = dummy                                     
+    name = center_x        | type = dummy                                     
+    name = center_y        | type = dummy                                     
+    name = center_z        | type = dummy                                     
+    name = click           | type = dummy                                     
+    name = clo3_scratch0   | type = dummy                                     
+    name = clo4_scratch0   | type = dummy                                     
+    name = clo7_scratch0   | type = dummy                                     
+    name = clo7_scratch1   | type = dummy                                     
+    name = clo7_scratch2   | type = dummy                                     
+    name = clo7_scratch3   | type = dummy                                     
+    name = clo7_scratch4   | type = dummy                                     
+    name = clo7_scratch5   | type = dummy                                     
+    name = clo8_scratch0   | type = dummy                                     
+    name = clo8_scratch1   | type = dummy                                     
+    name = clo8_scratch2   | type = dummy                                     
+    name = clone_air       | type = dummy                                     
+    name = clone_flip_x    | type = dummy                                     
+    name = clone_flip_z    | type = dummy                                     
+    name = clone_in_place  | type = dummy                                     
+    name = clone_rotation  | type = dummy                                     
+    name = col_scratch0    | type = dummy                                     
+    name = con_scratch0    | type = dummy                                     
+    name = cor_scratch0    | type = dummy                                     
+    name = cor_scratch1    | type = dummy                                     
+    name = cor_scratch2    | type = dummy                                     
+    name = cor_scratch3    | type = dummy                                     
+    name = cor_scratch4    | type = dummy                                     
+    name = corner_exists   | type = dummy                                     
+    name = count           | type = dummy                                     
+    name = cre_scratch0    | type = dummy                                     
+    name = cursor_current  | type = dummy                                     
+    name = cursor_inside   | type = dummy                                     
+    name = cursor_range    | type = dummy                                     
+    name = cx              | type = dummy                                     
+    name = cy              | type = dummy                                     
+    name = cz              | type = dummy                                     
+    name = d2              | type = dummy                                     
+    name = del_scratch0    | type = dummy                                     
+    name = del_scratch1    | type = dummy                                     
+    name = del_scratch2    | type = dummy                                     
+    name = del_scratch3    | type = dummy                                     
+    name = del_scratch4    | type = dummy                                     
+    name = del_scratch5    | type = dummy                                     
+    name = delta2          | type = dummy                                     
+    name = dest_dx         | type = dummy                                     
+    name = dest_dy         | type = dummy                                     
+    name = dest_dz         | type = dummy                                     
+    name = dest_start_x    | type = dummy                                     
+    name = dest_start_y    | type = dummy                                     
+    name = dest_start_z    | type = dummy                                     
+    name = dest_xmax       | type = dummy                                     
+    name = dest_xmin       | type = dummy                                     
+    name = dest_ymax       | type = dummy                                     
+    name = dest_ymin       | type = dummy                                     
+    name = dest_zmax       | type = dummy                                     
+    name = dest_zmin       | type = dummy                                     
+    name = disp_plugins    | type = dummy                                     
+    name = dra_scratch0    | type = dummy                                     
+    name = dra_scratch1    | type = dummy                                     
+    name = dx              | type = dummy                                     
+    name = dy              | type = dummy                                     
+    name = dz              | type = dummy                                     
+    name = edit            | type = dummy                                     
+    name = edit_xmax       | type = dummy                                     
+    name = edit_xmin       | type = dummy                                     
+    name = edit_ymax       | type = dummy                                     
+    name = edit_ymin       | type = dummy                                     
+    name = edit_zmax       | type = dummy                                     
+    name = edit_zmin       | type = dummy                                     
+    name = enabled         | type = dummy                                     
+    name = end_dx          | type = dummy                                     
+    name = end_dy          | type = dummy                                     
+    name = end_dz          | type = dummy                                     
+    name = ex              | type = dummy                                     
+    name = ey              | type = dummy                                     
+    name = ez              | type = dummy                                     
+    name = feedback        | type = dummy                                     
+    name = fil_scratch0    | type = dummy                                     
+    name = fil_scratch1    | type = dummy                                     
+    name = fil_scratch2    | type = dummy                                     
+    name = fil_scratch3    | type = dummy                                     
+    name = fil_scratch4    | type = dummy                                     
+    name = fil_scratch5    | type = dummy                                     
+    name = fil_scratch6    | type = dummy                                     
+    name = fil_scratch7    | type = dummy                                     
+    name = fil_scratch8    | type = dummy                                     
+    name = fil_scratch9    | type = dummy                                     
+    name = fire_timer      | type = dummy                                     
+    name = first           | type = dummy                                     
+    name = flip_x          | type = dummy                                     
+    name = flip_z          | type = dummy                                     
+    name = flipped_x       | type = dummy                                     
+    name = flipped_z       | type = dummy                                     
+    name = found_player    | type = dummy                                     
+    name = from_display    | type = dummy                                     
+    name = fx              | type = dummy                                     
+    name = fz              | type = dummy                                     
+    name = get2_scratch0   | type = dummy                                     
+    name = get2_scratch1   | type = dummy                                     
+    name = get2_scratch2   | type = dummy                                     
+    name = grid_display    | type = dummy                                     
+    name = handled         | type = dummy                                     
+    name = has_box         | type = dummy                                     
+    name = has_dest_box    | type = dummy                                     
+    name = has_rand        | type = dummy                                     
+    name = highlight       | type = dummy                                     
+    name = highlighted     | type = dummy                                     
+    name = holding_item    | type = dummy                                     
+    name = i               | type = dummy                                     
+    name = kill            | type = dummy                                     
+    name = left_handed     | type = dummy                                     
+    name = lh              | type = dummy                                     
+    name = loaded          | type = dummy                                     
+    name = looking         | type = dummy                                     
+    name = mai_scratch0    | type = dummy                                     
+    name = mai_scratch1    | type = dummy                                     
+    name = mai_scratch2    | type = dummy                                     
+    name = mai_scratch3    | type = dummy                                     
+    name = mai_scratch4    | type = dummy                                     
+    name = mai_scratch5    | type = dummy                                     
+    name = mai_scratch6    | type = dummy                                     
+    name = mod             | type = dummy                                     
+    name = move_dest       | type = dummy                                     
+    name = moving          | type = dummy                                     
+    name = okay_rotation   | type = dummy                                     
+    name = p_xmax          | type = dummy                                     
+    name = p_xmin          | type = dummy                                     
+    name = p_ymax          | type = dummy                                     
+    name = p_ymin          | type = dummy                                     
+    name = p_zmax          | type = dummy                                     
+    name = p_zmin          | type = dummy                                     
+    name = particles       | type = dummy                                     
+    name = per2_scratch0   | type = dummy                                     
+    name = per2_scratch1   | type = dummy                                     
+    name = per2_scratch2   | type = dummy                                     
+    name = per2_scratch3   | type = dummy                                     
+    name = per2_scratch4   | type = dummy                                     
+    name = per2_scratch5   | type = dummy                                     
+    name = per2_scratch6   | type = dummy                                     
+    name = per2_scratch7   | type = dummy                                     
+    name = per2_scratch8   | type = dummy                                     
+    name = per3_scratch0   | type = dummy                                     
+    name = per3_scratch1   | type = dummy                                     
+    name = per3_scratch2   | type = dummy                                     
+    name = per3_scratch3   | type = dummy                                     
+    name = per3_scratch4   | type = dummy                                     
+    name = per3_scratch5   | type = dummy                                     
+    name = percent         | type = dummy                                     
+    name = pick1           | type = dummy                                     
+    name = pick2           | type = dummy                                     
+    name = player          | type = dummy                                     
+    name = plugin_can_run  | type = dummy                                     
+    name = prev_edit       | type = dummy                                     
+    name = prime_plugins   | type = dummy                                     
+    name = rand_x          | type = dummy                                     
+    name = rand_y          | type = dummy                                     
+    name = rand_z          | type = dummy                                     
+    name = random_replace  | type = dummy                                     
+    name = raycast_select  | type = dummy                                     
+    name = replace         | type = dummy                                     
+    name = replaced_blocks | type = dummy                                     
+    name = right_click     | type = minecraft.used:minecraft.carrot_on_a_stick
+    name = rot_scratch0    | type = dummy                                     
+    name = rotation        | type = dummy                                     
+    name = rx              | type = dummy                                     
+    name = rx1             | type = dummy                                     
+    name = rx2             | type = dummy                                     
+    name = ry              | type = dummy                                     
+    name = ry1             | type = dummy                                     
+    name = ry2             | type = dummy                                     
+    name = rz              | type = dummy                                     
+    name = rz1             | type = dummy                                     
+    name = rz2             | type = dummy                                     
+    name = size_x          | type = dummy                                     
+    name = size_y          | type = dummy                                     
+    name = size_z          | type = dummy                                     
+    name = skip            | type = dummy                                     
+    name = start_dx        | type = dummy                                     
+    name = start_dy        | type = dummy                                     
+    name = start_dz        | type = dummy                                     
+    name = state           | type = dummy                                     
+    name = step            | type = dummy                                     
+    name = step_dx         | type = dummy                                     
+    name = step_dy         | type = dummy                                     
+    name = step_dz         | type = dummy                                     
+    name = sto_scratch0    | type = dummy                                     
+    name = sto_scratch1    | type = dummy                                     
+    name = sto_scratch2    | type = dummy                                     
+    name = sto_scratch3    | type = dummy                                     
+    name = sum             | type = dummy                                     
+    name = sx              | type = dummy                                     
+    name = sy              | type = dummy                                     
+    name = sz              | type = dummy                                     
+    name = tca             | type = dummy                                     
+    name = tca2            | type = dummy                                     
+    name = tell_actions    | type = dummy                                     
+    name = tick            | type = dummy                                     
+    name = tile_drops      | type = dummy                                     
+    name = to_display      | type = dummy                                     
+    name = tx              | type = dummy                                     
+    name = ty              | type = dummy                                     
+    name = type            | type = dummy                                     
+    name = tz              | type = dummy                                     
+    name = val             | type = dummy                                     
+    name = vol             | type = dummy                                     
+    name = x               | type = dummy                                     
+    name = x1              | type = dummy                                     
+    name = x2              | type = dummy                                     
+    name = x_offset        | type = dummy                                     
+    name = xmax            | type = dummy                                     
+    name = xmin            | type = dummy                                     
+    name = y               | type = dummy                                     
+    name = y1              | type = dummy                                     
+    name = y2              | type = dummy                                     
+    name = ymax            | type = dummy                                     
+    name = ymin            | type = dummy                                     
+    name = z               | type = dummy                                     
+    name = z1              | type = dummy                                     
+    name = z2              | type = dummy                                     
+    name = z_offset        | type = dummy                                     
+    name = zmax            | type = dummy                                     
+    name = zmin            | type = dummy                                     
+},
+Datapack [EconomyPlus Plugin - [Bounty]] = {
+},
+Datapack [EconomyPlus Plugin - [Loot]] = {
+},
+Datapack [EconomyPlus Plugin - [Travel]] = {
+    name = ep.pre_tp       | type = dummy  
+    name = ep.tp_cooldown  | type = dummy  
+    name = ep.tp_cooldown1 | type = dummy  
+    name = ep.tp_cooldown2 | type = dummy  
+    name = ep.tp_cooldown3 | type = dummy  
+    name = ep.tp_cooldown4 | type = dummy  
+    name = travel          | type = trigger | display = {"text": "Travel"}
+},
+Datapack [EconomyPlus v8.0] = {
+    name = auction          | type = trigger                                       | display = {"text": "Auction"}
+    name = balance          | type = trigger                                       | display = {"text": "Balance"}
+    name = bank             | type = trigger                                       | display = {"text": "Bank"}
+    name = bid              | type = trigger                                       | display = {"text": "Bid"}
+    name = buy              | type = trigger                                       | display = {"text": "Buy"}
+    name = commands         | type = trigger                                       | display = {"text": "Commands"}
+    name = ep.ab_displace   | type = dummy                                        
+    name = ep.ab_displace2  | type = dummy                                        
+    name = ep.actionbar     | type = dummy                                        
+    name = ep.age           | type = dummy                                        
+    name = ep.animation     | type = dummy                                        
+    name = ep.announcement  | type = dummy                                        
+    name = ep.autopay       | type = dummy                                        
+    name = ep.bank          | type = dummy                                         | display = {"text": "Bank"}
+    name = ep.book_time     | type = minecraft.custom:minecraft.play_time          | display = {"text": "Book Time"}
+    name = ep.bounty        | type = dummy                                        
+    name = ep.bounty_time   | type = minecraft.custom:minecraft.play_time          | display = {"text": "Bounty Time"}
+    name = ep.config        | type = dummy                                        
+    name = ep.death         | type = deathCount                                   
+    name = ep.debt          | type = dummy                                         | display = {"text": "Debt"}
+    name = ep.debt.cscore   | type = dummy                                        
+    name = ep.debt.min_pay  | type = dummy                                        
+    name = ep.debt_start    | type = dummy                                         | display = {"text": "Debt Start Time"}
+    name = ep.debt_state    | type = dummy                                        
+    name = ep.debt_time     | type = minecraft.custom:minecraft.play_time          | display = {"text": "Debt Time"}
+    name = ep.display_money | type = dummy                                         | display = {"text":"Money", "color":"#D4AF37"}
+    name = ep.end_time      | type = dummy                                        
+    name = ep.highest_money | type = dummy                                         | display = {"text": "Highest Money You Ever Had"}
+    name = ep.income        | type = dummy                                         | display = "Income"
+    name = ep.interact      | type = minecraft.custom:minecraft.talked_to_villager
+    name = ep.interest_time | type = minecraft.custom:minecraft.play_time          | display = "Last Interest"
+    name = ep.login         | type = minecraft.custom:minecraft.leave_game        
+    name = ep.max_use       | type = dummy                                        
+    name = ep.money         | type = dummy                                         | display = {"text":"Money"}
+    name = ep.owner         | type = dummy                                        
+    name = ep.per_change    | type = dummy                                        
+    name = ep.player_kill   | type = minecraft.custom:minecraft.player_kills      
+    name = ep.position.x    | type = dummy                                        
+    name = ep.position.y    | type = dummy                                        
+    name = ep.position.z    | type = dummy                                        
+    name = ep.reset_time    | type = dummy                                        
+    name = ep.reward_time   | type = minecraft.custom:minecraft.play_time          | display = {"text": "Reward Time"}
+    name = ep.session       | type = dummy                                         | display = {"text": "EP session"}
+    name = ep.state         | type = dummy                                        
+    name = ep.stored_money  | type = dummy                                        
+    name = ep.tax_time      | type = minecraft.custom:minecraft.play_time          | display = "Last Tax"
+    name = ep.time          | type = dummy                                         | display = {"text": "Relativistic Time Syncing"}
+    name = ep.uid0          | type = dummy                                         | display = {"text": "EP UID-0"}
+    name = ep.uid1          | type = dummy                                         | display = {"text": "EP UID-1"}
+    name = ep.uid2          | type = dummy                                         | display = {"text": "EP UID-2"}
+    name = ep.uid3          | type = dummy                                         | display = {"text": "EP UID-3"}
+    name = ep.use           | type = dummy                                        
+    name = ep.variable      | type = dummy                                        
+    name = market           | type = trigger                                       | display = {"text": "Market"}
+    name = pay              | type = trigger                                       | display = {"text": "Pay"}
+    name = sell             | type = trigger                                       | display = {"text": "Sell"}
+    name = settings         | type = trigger                                       | display = {"text": "Settings"}
+    name = status           | type = trigger                                       | display = {"text": "Status"}
+},
+Datapack [track raw statistics v1.5.2] = {
+    name = ts_AnimalsBred   | type = minecraft.custom:minecraft.animals_bred                 | display = "Animals Bred"
+    name = ts_Aviate        | type = minecraft.custom:minecraft.aviate_one_cm                | display = "Aviate"
+    name = ts_BreakAxe      | type = minecraft.broken:minecraft.diamond_axe                  | display = "Break Diamond Axe"
+    name = ts_BreakBow      | type = minecraft.broken:minecraft.bow                          | display = "Break Bow"
+    name = ts_BreakHoe      | type = minecraft.broken:minecraft.diamond_hoe                  | display = "Break Diamond Hoe"
+    name = ts_BreakNAxe     | type = minecraft.broken:minecraft.netherite_axe                | display = "Break Netherite Axe"
+    name = ts_BreakNHoe     | type = minecraft.broken:minecraft.netherite_hoe                | display = "Break Netherite Hoe"
+    name = ts_BreakNPick    | type = minecraft.broken:minecraft.netherite_pickaxe            | display = "Break Netherite Pickaxe"
+    name = ts_BreakNShovel  | type = minecraft.broken:minecraft.netherite_shovel             | display = "Break Netherite Shovel"
+    name = ts_BreakNSword   | type = minecraft.broken:minecraft.netherite_sword              | display = "Break Netherite Sword"
+    name = ts_BreakPick     | type = minecraft.broken:minecraft.diamond_pickaxe              | display = "Break Diamond Pickaxe"
+    name = ts_BreakShears   | type = minecraft.broken:minecraft.shears                       | display = "Break Shears"
+    name = ts_BreakShovel   | type = minecraft.broken:minecraft.diamond_shovel               | display = "Break Diamond Shovel"
+    name = ts_BreakSword    | type = minecraft.broken:minecraft.diamond_sword                | display = "Break Diamond Sword"
+    name = ts_Brewing       | type = minecraft.custom:minecraft.interact_with_brewingstand   | display = "Brewing"
+    name = ts_CakeEaten     | type = minecraft.custom:minecraft.eat_cake_slice               | display = "Cake Eaten"
+    name = ts_ChestOpened   | type = minecraft.custom:minecraft.open_chest                   | display = "Chest Opened"
+    name = ts_Climb         | type = minecraft.custom:minecraft.climb_one_cm                 | display = "Climb"
+    name = ts_CraftBeacon   | type = minecraft.crafted:minecraft.beacon                      | display = "Craft Beacon"
+    name = ts_CraftConduit  | type = minecraft.crafted:minecraft.conduit                     | display = "Craft Conduit"
+    name = ts_CraftEndCryst | type = minecraft.crafted:minecraft.end_crystal                 | display = "Craft End Crystal"
+    name = ts_CraftShulkBox | type = minecraft.crafted:minecraft.shulker_box                 | display = "Craft Shulker Box"
+    name = ts_Crafts        | type = minecraft.custom:minecraft.interact_with_crafting_table | display = "Crafts"
+    name = ts_Crouch        | type = minecraft.custom:minecraft.crouch_one_cm                | display = "Crouch"
+    name = ts_DamageDealt   | type = minecraft.custom:minecraft.damage_dealt                 | display = "Damage Dealt"
+    name = ts_DamageTaken   | type = minecraft.custom:minecraft.damage_taken                 | display = "Damage Taken"
+    name = ts_Deaths        | type = deathCount                                              | display = "Deaths"
+    name = ts_DthBee        | type = minecraft.killed_by:minecraft.bee                       | display = "Killed by Bee"
+    name = ts_DthBlaze      | type = minecraft.killed_by:minecraft.blaze                     | display = "Killed by Blaze"
+    name = ts_DthCreeper    | type = minecraft.killed_by:minecraft.creeper                   | display = "Killed by Creeper"
+    name = ts_DthCveSpider  | type = minecraft.killed_by:minecraft.cave_spider               | display = "Killed by Cave Spider"
+    name = ts_DthDolphin    | type = minecraft.killed_by:minecraft.dolphin                   | display = "Killed by Dolphin"
+    name = ts_DthDrowned    | type = minecraft.killed_by:minecraft.drowned                   | display = "Killed by Drowned"
+    name = ts_DthEDragon    | type = minecraft.killed_by:minecraft.ender_dragon              | display = "Killed by Ender Dragon"
+    name = ts_DthEGuardian  | type = minecraft.killed_by:minecraft.elder_guardian            | display = "Killed by Elder Guardian"
+    name = ts_DthEnderman   | type = minecraft.killed_by:minecraft.enderman                  | display = "Killed by Enderman"
+    name = ts_DthEndermite  | type = minecraft.killed_by:minecraft.endermite                 | display = "Killed by Endermite"
+    name = ts_DthEvoker     | type = minecraft.killed_by:minecraft.evoker                    | display = "Killed by Evoker"
+    name = ts_DthFox        | type = minecraft.killed_by:minecraft.fox                       | display = "Killed by Fox"
+    name = ts_DthGhast      | type = minecraft.killed_by:minecraft.ghast                     | display = "Killed by Ghast"
+    name = ts_DthGuardian   | type = minecraft.killed_by:minecraft.guardian                  | display = "Killed by Guardian"
+    name = ts_DthHoglin     | type = minecraft.killed_by:minecraft.hoglin                    | display = "Killed by Hoglin"
+    name = ts_DthHusk       | type = minecraft.killed_by:minecraft.husk                      | display = "Killed by Husk"
+    name = ts_DthIllusion   | type = minecraft.killed_by:minecraft.illusioner                | display = "Killed by Illusioner"
+    name = ts_DthIronGolem  | type = minecraft.killed_by:minecraft.iron_golem                | display = "Killed by Iron Golem"
+    name = ts_DthLlama      | type = minecraft.killed_by:minecraft.llama                     | display = "Killed by Llama"
+    name = ts_DthMagmaCube  | type = minecraft.killed_by:minecraft.magma_cube                | display = "Killed by Magma Cube"
+    name = ts_DthPanda      | type = minecraft.killed_by:minecraft.panda                     | display = "Killed by Panda"
+    name = ts_DthPhantom    | type = minecraft.killed_by:minecraft.phantom                   | display = "Killed by Phantom"
+    name = ts_DthPiglin     | type = minecraft.killed_by:minecraft.piglin                    | display = "Killed by Piglin"
+    name = ts_DthPigman     | type = minecraft.killed_by:minecraft.zombified_piglin          | display = "Killed by Zombified Piglin"
+    name = ts_DthPillager   | type = minecraft.killed_by:minecraft.pillager                  | display = "Killed by Pillager"
+    name = ts_DthPolarBear  | type = minecraft.killed_by:minecraft.polar_bear                | display = "Killed by Polar Bear"
+    name = ts_DthPuffish    | type = minecraft.killed_by:minecraft.pufferfish                | display = "Killed by Pufferfish"
+    name = ts_DthRabbit     | type = minecraft.killed_by:minecraft.rabbit                    | display = "Killed by Rabbit"
+    name = ts_DthRavager    | type = minecraft.killed_by:minecraft.ravager                   | display = "Killed by Ravager"
+    name = ts_DthShulker    | type = minecraft.killed_by:minecraft.shulker                   | display = "Killed by Shulker"
+    name = ts_DthSilvfish   | type = minecraft.killed_by:minecraft.silverfish                | display = "Killed by Silverfish"
+    name = ts_DthSkeleton   | type = minecraft.killed_by:minecraft.skeleton                  | display = "Killed by Skeleton"
+    name = ts_DthSkeletonH  | type = minecraft.killed_by:minecraft.skeleton_horse            | display = "Killed by Skeleton Horse"
+    name = ts_DthSlime      | type = minecraft.killed_by:minecraft.slime                     | display = "Killed by Slime"
+    name = ts_DthSnowGolem  | type = minecraft.killed_by:minecraft.snow_golem                | display = "Killed by Snow Golem"
+    name = ts_DthSpider     | type = minecraft.killed_by:minecraft.spider                    | display = "Killed by Spider"
+    name = ts_DthStray      | type = minecraft.killed_by:minecraft.stray                     | display = "Killed by Stray"
+    name = ts_DthStrider    | type = minecraft.killed_by:minecraft.strider                   | display = "Killed by Strider"
+    name = ts_DthTraderLla  | type = minecraft.killed_by:minecraft.trader_llama              | display = "Killed by Trader Llama"
+    name = ts_DthTurtle     | type = minecraft.killed_by:minecraft.turtle                    | display = "Killed by Turtle"
+    name = ts_DthVex        | type = minecraft.killed_by:minecraft.vex                       | display = "Killed by Vex"
+    name = ts_DthVillager   | type = minecraft.killed_by:minecraft.villager                  | display = "Killed by Villager"
+    name = ts_DthVindicatr  | type = minecraft.killed_by:minecraft.vindicator                | display = "Killed by Vindicator"
+    name = ts_DthWSkeleton  | type = minecraft.killed_by:minecraft.wither_skeleton           | display = "Killed by Wither Skeleton"
+    name = ts_DthWandering  | type = minecraft.killed_by:minecraft.wandering_trader          | display = "Killed by Wandering Trader"
+    name = ts_DthWitch      | type = minecraft.killed_by:minecraft.witch                     | display = "Killed by Witch"
+    name = ts_DthWither     | type = minecraft.killed_by:minecraft.wither                    | display = "Killed by Wither"
+    name = ts_DthWolf       | type = minecraft.killed_by:minecraft.wolf                      | display = "Killed by Wolf"
+    name = ts_DthZoglin     | type = minecraft.killed_by:minecraft.zoglin                    | display = "Killed by Zoglin"
+    name = ts_DthZombie     | type = minecraft.killed_by:minecraft.zombie                    | display = "Killed by Zombie"
+    name = ts_DthZombieH    | type = minecraft.killed_by:minecraft.zombie_horse              | display = "Killed by Zombie Horse"
+    name = ts_DthZombieV    | type = minecraft.killed_by:minecraft.zombie_villager           | display = "Killed by Zombie Villager"
+    name = ts_EnchantItem   | type = minecraft.custom:minecraft.enchant_item                 | display = "Items Enchanted"
+    name = ts_EnderChest    | type = minecraft.custom:minecraft.open_enderchest              | display = "Ender Chest"
+    name = ts_Fall          | type = minecraft.custom:minecraft.fall_one_cm                  | display = "Fall"
+    name = ts_FishCaught    | type = minecraft.custom:minecraft.fish_caught                  | display = "Fish Caught"
+    name = ts_FlowerPotted  | type = minecraft.custom:minecraft.pot_flower                   | display = "Flower Potted"
+    name = ts_Fly           | type = minecraft.custom:minecraft.fly_one_cm                   | display = "Fly"
+    name = ts_FurnaceUsed   | type = minecraft.custom:minecraft.interact_with_furnace        | display = "Furnace Used"
+    name = ts_HorseRode     | type = minecraft.custom:minecraft.horse_one_cm                 | display = "Horse Rode"
+    name = ts_Jump          | type = minecraft.custom:minecraft.jump                         | display = "Jump"
+    name = ts_KillAxolotl   | type = minecraft.killed:minecraft.axolotl                      | display = "Kill Axolotl"
+    name = ts_KillBat       | type = minecraft.killed:minecraft.bat                          | display = "Kill Bat"
+    name = ts_KillBee       | type = minecraft.killed:minecraft.bee                          | display = "Kill Bee"
+    name = ts_KillBlaze     | type = minecraft.killed:minecraft.blaze                        | display = "Kill Blaze"
+    name = ts_KillChicken   | type = minecraft.killed:minecraft.chicken                      | display = "Kill Chicken"
+    name = ts_KillCod       | type = minecraft.killed:minecraft.cod                          | display = "Kill Cod"
+    name = ts_KillCount     | type = playerKillCount                                         | display = "Kill Count"
+    name = ts_KillCow       | type = minecraft.killed:minecraft.cow                          | display = "Kill Cow"
+    name = ts_KillCreeper   | type = minecraft.killed:minecraft.creeper                      | display = "Kill Creeper"
+    name = ts_KillCveSpider | type = minecraft.killed:minecraft.cave_spider                  | display = "Kill Cave Spider"
+    name = ts_KillDolphin   | type = minecraft.killed:minecraft.dolphin                      | display = "Kill Dolphin"
+    name = ts_KillDonkey    | type = minecraft.killed:minecraft.donkey                       | display = "Kill Donkey"
+    name = ts_KillDrowned   | type = minecraft.killed:minecraft.drowned                      | display = "Kill Drowned"
+    name = ts_KillEDragon   | type = minecraft.killed:minecraft.ender_dragon                 | display = "Kill Ender Dragon"
+    name = ts_KillEGuardian | type = minecraft.killed:minecraft.elder_guardian               | display = "Kill Elder Guardian"
+    name = ts_KillEnderman  | type = minecraft.killed:minecraft.enderman                     | display = "Kill Enderman"
+    name = ts_KillEndermite | type = minecraft.killed:minecraft.endermite                    | display = "Kill Endermite"
+    name = ts_KillEvoker    | type = minecraft.killed:minecraft.evoker                       | display = "Kill Evoker"
+    name = ts_KillFox       | type = minecraft.killed:minecraft.fox                          | display = "Kill Fox"
+    name = ts_KillGhast     | type = minecraft.killed:minecraft.ghast                        | display = "Kill Ghast"
+    name = ts_KillGlowSquid | type = minecraft.killed:minecraft.glow_squid                   | display = "Kill Glow Squid"
+    name = ts_KillGoat      | type = minecraft.killed:minecraft.goat                         | display = "Kill Goat"
+    name = ts_KillGuardian  | type = minecraft.killed:minecraft.guardian                     | display = "Kill Guardian"
+    name = ts_KillHoglin    | type = minecraft.killed:minecraft.hoglin                       | display = "Kill Hoglin"
+    name = ts_KillHorse     | type = minecraft.killed:minecraft.horse                        | display = "Kill Horse"
+    name = ts_KillHusk      | type = minecraft.killed:minecraft.husk                         | display = "Kill Husk"
+    name = ts_KillIllusion  | type = minecraft.killed:minecraft.illusioner                   | display = "Kill Illusioner"
+    name = ts_KillIronGolem | type = minecraft.killed:minecraft.iron_golem                   | display = "Kill Iron Golem"
+    name = ts_KillLlama     | type = minecraft.killed:minecraft.llama                        | display = "Kill Llama"
+    name = ts_KillMagmaCube | type = minecraft.killed:minecraft.magma_cube                   | display = "Kill Magma Cube"
+    name = ts_KillMooshroom | type = minecraft.killed:minecraft.mooshroom                    | display = "Kill Mooshroom"
+    name = ts_KillMule      | type = minecraft.killed:minecraft.mule                         | display = "Kill Mule"
+    name = ts_KillOcelot    | type = minecraft.killed:minecraft.ocelot                       | display = "Kill Ocelot"
+    name = ts_KillPanda     | type = minecraft.killed:minecraft.panda                        | display = "Kill Panda"
+    name = ts_KillParrot    | type = minecraft.killed:minecraft.parrot                       | display = "Kill Parrot"
+    name = ts_KillPhantom   | type = minecraft.killed:minecraft.phantom                      | display = "Kill Phantom"
+    name = ts_KillPig       | type = minecraft.killed:minecraft.pig                          | display = "Kill Pig"
+    name = ts_KillPiglin    | type = minecraft.killed:minecraft.piglin                       | display = "Kill Piglin"
+    name = ts_KillPigman    | type = minecraft.killed:minecraft.zombified_piglin             | display = "Kill Zombified Piglin"
+    name = ts_KillPillager  | type = minecraft.killed:minecraft.pillager                     | display = "Kill Pillager"
+    name = ts_KillPolarBear | type = minecraft.killed:minecraft.polar_bear                   | display = "Kill Polar Bear"
+    name = ts_KillPuffish   | type = minecraft.killed:minecraft.pufferfish                   | display = "Kill Pufferfish"
+    name = ts_KillRabbit    | type = minecraft.killed:minecraft.rabbit                       | display = "Kill Rabbit"
+    name = ts_KillRavager   | type = minecraft.killed:minecraft.ravager                      | display = "Kill Ravager"
+    name = ts_KillSalmon    | type = minecraft.killed:minecraft.salmon                       | display = "Kill Salmon"
+    name = ts_KillSheep     | type = minecraft.killed:minecraft.sheep                        | display = "Kill Sheep"
+    name = ts_KillShulker   | type = minecraft.killed:minecraft.shulker                      | display = "Kill Shulker"
+    name = ts_KillSilvfish  | type = minecraft.killed:minecraft.silverfish                   | display = "Kill Silverfish"
+    name = ts_KillSkeleton  | type = minecraft.killed:minecraft.skeleton                     | display = "Kill Skeleton"
+    name = ts_KillSkeletonH | type = minecraft.killed:minecraft.skeleton_horse               | display = "Kill Skeleton Horse"
+    name = ts_KillSlime     | type = minecraft.killed:minecraft.slime                        | display = "Kill Slime"
+    name = ts_KillSnowGolem | type = minecraft.killed:minecraft.snow_golem                   | display = "Kill Snow Golem"
+    name = ts_KillSpider    | type = minecraft.killed:minecraft.spider                       | display = "Kill Spider"
+    name = ts_KillSquid     | type = minecraft.killed:minecraft.squid                        | display = "Kill Squid"
+    name = ts_KillStray     | type = minecraft.killed:minecraft.stray                        | display = "Kill Stray"
+    name = ts_KillStrider   | type = minecraft.killed:minecraft.strider                      | display = "Kill Strider"
+    name = ts_KillTraderLla | type = minecraft.killed:minecraft.trader_llama                 | display = "Kill Trader Llama"
+    name = ts_KillTropifish | type = minecraft.killed:minecraft.tropical_fish                | display = "Kill Tropical Fish"
+    name = ts_KillTurtle    | type = minecraft.killed:minecraft.turtle                       | display = "Kill Turtle"
+    name = ts_KillVex       | type = minecraft.killed:minecraft.vex                          | display = "Kill Vex"
+    name = ts_KillVillager  | type = minecraft.killed:minecraft.villager                     | display = "Kill Villager"
+    name = ts_KillVindicatr | type = minecraft.killed:minecraft.vindicator                   | display = "Kill Vindicator"
+    name = ts_KillWSkeleton | type = minecraft.killed:minecraft.wither_skeleton              | display = "Kill Wither Skeleton"
+    name = ts_KillWandering | type = minecraft.killed:minecraft.wandering_trader             | display = "Kill Wandering Trader"
+    name = ts_KillWitch     | type = minecraft.killed:minecraft.witch                        | display = "Kill Witch"
+    name = ts_KillWither    | type = minecraft.killed:minecraft.wither                       | display = "Kill Wither"
+    name = ts_KillWolf      | type = minecraft.killed:minecraft.wolf                         | display = "Kill Wolf"
+    name = ts_KillZoglin    | type = minecraft.killed:minecraft.zoglin                       | display = "Kill Zoglin"
+    name = ts_KillZombie    | type = minecraft.killed:minecraft.zombie                       | display = "Kill Zombie"
+    name = ts_KillZombieH   | type = minecraft.killed:minecraft.zombie_horse                 | display = "Kill Zombie Horse"
+    name = ts_KillZombieV   | type = minecraft.killed:minecraft.zombie_villager              | display = "Kill Zombie Villager"
+    name = ts_LastDeath     | type = minecraft.custom:minecraft.time_since_death             | display = "Time Since Last Death"
+    name = ts_MineCoal      | type = minecraft.mined:minecraft.coal_ore                      | display = "Mine Coal"
+    name = ts_MineCopper    | type = minecraft.mined:minecraft.copper_ore                    | display = "Mine Copper"
+    name = ts_MineDCoal     | type = minecraft.mined:minecraft.deepslate_coal_ore            | display = "Mine Deepslate Coal"
+    name = ts_MineDCopper   | type = minecraft.mined:minecraft.deepslate_copper_ore          | display = "Mine Deepslate Copper"
+    name = ts_MineDDiamond  | type = minecraft.mined:minecraft.deepslate_diamond_ore         | display = "Mine Deepslate Diamond"
+    name = ts_MineDEmerald  | type = minecraft.mined:minecraft.deepslate_emerald_ore         | display = "Mine Deepslate Emerald"
+    name = ts_MineDGold     | type = minecraft.mined:minecraft.deepslate_gold_ore            | display = "Mine Deepslate Gold"
+    name = ts_MineDIron     | type = minecraft.mined:minecraft.deepslate_iron_ore            | display = "Mine Deepslate Iron"
+    name = ts_MineDLapis    | type = minecraft.mined:minecraft.deepslate_lapis_ore           | display = "Mine Deepslate Lapis"
+    name = ts_MineDRedstone | type = minecraft.mined:minecraft.deepslate_redstone_ore        | display = "Mine Deepslate Redstone"
+    name = ts_MineDiamond   | type = minecraft.mined:minecraft.diamond_ore                   | display = "Mine Diamond"
+    name = ts_MineEmerald   | type = minecraft.mined:minecraft.emerald_ore                   | display = "Mine Emerald"
+    name = ts_MineGold      | type = minecraft.mined:minecraft.gold_ore                      | display = "Mine Gold"
+    name = ts_MineIron      | type = minecraft.mined:minecraft.iron_ore                      | display = "Mine Iron"
+    name = ts_MineLapis     | type = minecraft.mined:minecraft.lapis_ore                     | display = "Mine Lapis"
+    name = ts_MineNetherite | type = minecraft.mined:minecraft.ancient_debris                | display = "Mine Ancient Debris"
+    name = ts_MineQuartz    | type = minecraft.mined:minecraft.nether_quartz_ore             | display = "Mine Quartz"
+    name = ts_MineRedstone  | type = minecraft.mined:minecraft.redstone_ore                  | display = "Mine Redstone"
+    name = ts_MinecartRide  | type = minecraft.custom:minecraft.minecart_one_cm              | display = "Minecart Ride"
+    name = ts_MobKills      | type = minecraft.custom:minecraft.mob_kills                    | display = "Mob Kills"
+    name = ts_PigRide       | type = minecraft.custom:minecraft.pig_one_cm                   | display = "Pig Ride"
+    name = ts_PlayNoteblock | type = minecraft.custom:minecraft.play_noteblock               | display = "Play Noteblock"
+    name = ts_PlayTime      | type = minecraft.custom:minecraft.play_time                    | display = "Play Time"
+    name = ts_PlayerKills   | type = minecraft.custom:minecraft.player_kills                 | display = "Player Kills"
+    name = ts_RecordsPlayed | type = minecraft.custom:minecraft.play_record                  | display = "Records Played"
+    name = ts_ShulkerBox    | type = minecraft.custom:minecraft.open_shulker_box             | display = "Shulker Box"
+    name = ts_Sneak         | type = minecraft.custom:minecraft.sneak_time                   | display = "Sneak"
+    name = ts_Sprint        | type = minecraft.custom:minecraft.sprint_one_cm                | display = "Sprint"
+    name = ts_Swim          | type = minecraft.custom:minecraft.swim_one_cm                  | display = "Swim"
+    name = ts_TotalKills    | type = totalKillCount                                          | display = "Total Kills"
+    name = ts_TrapChestOpen | type = minecraft.custom:minecraft.trigger_trapped_chest        | display = "Trap Chest Open"
+    name = ts_TuneNoteblock | type = minecraft.custom:minecraft.tune_noteblock               | display = "Tune Noteblock"
+    name = ts_UseBonemeal   | type = minecraft.used:minecraft.bone_meal                      | display = "Use Bonemeal"
+    name = ts_UseBottleEnch | type = minecraft.used:minecraft.experience_bottle              | display = "Thrown Bottle o' Enchanting"
+    name = ts_UseBucket     | type = minecraft.used:minecraft.bucket                         | display = "Buckets Filled"
+    name = ts_UseEnderPearl | type = minecraft.used:minecraft.ender_pearl                    | display = "Thrown Ender Pearl"
+    name = ts_UseEyeOfEnder | type = minecraft.used:minecraft.ender_eye                      | display = "Thrown Eye Of Ender"
+    name = ts_UseFishingRod | type = minecraft.used:minecraft.fishing_rod                    | display = "Cast Fishing Rod"
+    name = ts_UseGoldApple  | type = minecraft.used:minecraft.golden_apple                   | display = "Use Golden Apple"
+    name = ts_UseHoneyBottl | type = minecraft.used:minecraft.honey_bottle                   | display = "Drink Honey Bottle"
+    name = ts_UseLavaBucket | type = minecraft.used:minecraft.lava_bucket                    | display = "Lava Buckets Emptied"
+    name = ts_UsePotion     | type = minecraft.used:minecraft.potion                         | display = "Use Potion"
+    name = ts_UseSnowball   | type = minecraft.used:minecraft.snowball                       | display = "Thrown Snowball"
+    name = ts_UseTorch      | type = minecraft.used:minecraft.torch                          | display = "Use Torch"
+    name = ts_UseTotem      | type = minecraft.used:minecraft.totem_of_undying               | display = "Use Totem"
+    name = ts_UseTrident    | type = minecraft.used:minecraft.trident                        | display = "Thrown Trident"
+    name = ts_UseWatrBucket | type = minecraft.used:minecraft.water_bucket                   | display = "Water Buckets Emptied"
+    name = ts_VillagerTrade | type = minecraft.custom:minecraft.traded_with_villager         | display = "Villager Trade"
+    name = ts_Walk          | type = minecraft.custom:minecraft.walk_one_cm                  | display = "Walk"
+},
+Datapack [track statistics v1.1.3] = {
+    name = hc_MineCoal         | type = dummy                                            | display = "Mine All Coal"
+    name = hc_MineCoalShow     | type = dummy                                            | display = "Show Mined Coal Ore"
+    name = hc_MineCopper       | type = dummy                                            | display = "Mine All Copper"
+    name = hc_MineCopperShow   | type = dummy                                            | display = "Show Mined Copper Ore"
+    name = hc_MineDCoal        | type = minecraft.mined:minecraft.deepslate_coal_ore     | display = "Mine Deepslate Coal"
+    name = hc_MineDCopper      | type = minecraft.mined:minecraft.deepslate_copper_ore   | display = "Mine Deepslate Copper"
+    name = hc_MineDDiamond     | type = minecraft.mined:minecraft.deepslate_diamond_ore  | display = "Mine Deepslate Diamond"
+    name = hc_MineDEmerald     | type = minecraft.mined:minecraft.deepslate_emerald_ore  | display = "Mine Deepslate Emerald"
+    name = hc_MineDGold        | type = minecraft.mined:minecraft.deepslate_gold_ore     | display = "Mine Deepslate Gold"
+    name = hc_MineDIron        | type = minecraft.mined:minecraft.deepslate_iron_ore     | display = "Mine Deepslate Iron"
+    name = hc_MineDLapis       | type = minecraft.mined:minecraft.deepslate_lapis_ore    | display = "Mine Deepslate Lapis"
+    name = hc_MineDRedstone    | type = minecraft.mined:minecraft.deepslate_redstone_ore | display = "Mine Deepslate Redstone"
+    name = hc_MineDiamond      | type = dummy                                            | display = "Mine All Diamond"
+    name = hc_MineDiamondShow  | type = dummy                                            | display = "Show Mined Diamond Ore"
+    name = hc_MineEmerald      | type = dummy                                            | display = "Mine All Emerald"
+    name = hc_MineEmeraldShow  | type = dummy                                            | display = "Show Mined Emerald Ore"
+    name = hc_MineGold         | type = dummy                                            | display = "Mine All Gold"
+    name = hc_MineGoldShow     | type = dummy                                            | display = "Show Mined Gold Ore"
+    name = hc_MineIron         | type = dummy                                            | display = "Mine All Iron"
+    name = hc_MineIronShow     | type = dummy                                            | display = "Show Mined Iron Ore"
+    name = hc_MineLapis        | type = dummy                                            | display = "Mine All Lapis"
+    name = hc_MineLapisShow    | type = dummy                                            | display = "Show Mined Lapis Ore"
+    name = hc_MineNetherite    | type = minecraft.mined:minecraft.ancient_debris         | display = "Mine Ancient Debris"
+    name = hc_MineOre          | type = dummy                                            | display = "Mine Ores"
+    name = hc_MineOreShow      | type = dummy                                            | display = "Show Mined Ores"
+    name = hc_MineQuartz       | type = minecraft.mined:minecraft.nether_quartz_ore      | display = "Mine Quartz"
+    name = hc_MineRedstone     | type = dummy                                            | display = "Mine All Redstone"
+    name = hc_MineRedstoneShow | type = dummy                                            | display = "Show Mined Redstone Ore"
+    name = hc_MineSCoal        | type = minecraft.mined:minecraft.coal_ore               | display = "Mine Stone Coal"
+    name = hc_MineSCopper      | type = minecraft.mined:minecraft.copper_ore             | display = "Mine Stone Copper"
+    name = hc_MineSDiamond     | type = minecraft.mined:minecraft.diamond_ore            | display = "Mine Stone Diamond"
+    name = hc_MineSEmerald     | type = minecraft.mined:minecraft.emerald_ore            | display = "Mine Stone Emerald"
+    name = hc_MineSGold        | type = minecraft.mined:minecraft.gold_ore               | display = "Mine Stone Gold"
+    name = hc_MineSIron        | type = minecraft.mined:minecraft.iron_ore               | display = "Mine Stone Iron"
+    name = hc_MineSLapis       | type = minecraft.mined:minecraft.lapis_ore              | display = "Mine Stone Lapis"
+    name = hc_MineSRedstone    | type = minecraft.mined:minecraft.redstone_ore           | display = "Mine Stone Redstone"
+    name = hc_constant         | type = dummy                                            | display = "Hermitcraft Constants"
+    name = hc_elytraCm         | type = minecraft.custom:minecraft.aviate_one_cm         | display = "Elytra cm"
+    name = hc_elytraKm         | type = dummy                                            | display = "Elytra km"
+    name = hc_elytraKmShow     | type = dummy                                            | display = "Elytra km Show"
+    name = hc_playTick         | type = minecraft.custom:minecraft.play_time             | display = "Play Ticks"
+    name = hc_playTime         | type = dummy                                            | display = "Play Minutes"
+    name = hc_playTimeShow     | type = dummy                                            | display = "Play Minutes Show"
+    name = hc_swimCm           | type = minecraft.custom:minecraft.swim_one_cm           | display = "Swim"
+    name = hc_swimKm           | type = dummy                                            | display = "Swim km"
+    name = hc_swimKmShow       | type = dummy                                            | display = "Swim km Show"
+}
