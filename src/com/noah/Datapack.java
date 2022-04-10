@@ -31,8 +31,7 @@ public class Datapack {
 //            allVars.append(f.toString());
             vars.addAll(f.varsInFile);
         }
-        vars = sort(vars);
-
+        vars = format(sort(vars));
 
         StringBuilder allVars = new StringBuilder();
         for (Variable v : vars)
@@ -44,7 +43,7 @@ public class Datapack {
                 "}";
     }
 
-    public static ArrayList<Variable> sort(ArrayList<Variable> vars) { // Method to Run
+    public static ArrayList<Variable> sort(ArrayList<Variable> vars) {
         String[] list = new String[vars.size()];
         for (int i = 0; i < vars.size(); i++)
             list[i] = vars.get(i).name;
@@ -59,5 +58,33 @@ public class Datapack {
                     sorted.add(vars.get(j));
 
         return sorted;
+    }
+
+    public static ArrayList<Variable> format(ArrayList<Variable> vars) {
+        int longestName = 0, longestType = 0;
+        for (Variable var : vars) {
+            int lenN = var.name.length();
+            int lenT = var.type.length();
+            if (lenN > longestName) longestName = lenN;
+            if (lenT > longestType) longestType = lenT;
+        }
+
+        for (int i = 0; i < vars.size(); i++) {
+            StringBuilder name = new StringBuilder(vars.get(i).name);
+            StringBuilder type = new StringBuilder(vars.get(i).type);
+
+            if (longestName > vars.get(i).name.length())
+                for (int j = 0; j < longestName - vars.get(i).name.length(); j++)
+                    name.append(" ");
+
+            if (longestType > vars.get(i).type.length())
+                for (int j = 0; j < longestType - vars.get(i).type.length(); j++)
+                    type.append(" ");
+
+            vars.get(i).name = name.toString();
+            vars.get(i).type = type.toString();
+        }
+
+        return vars;
     }
 }

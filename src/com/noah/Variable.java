@@ -20,7 +20,7 @@ public class Variable {
     @Override
     public String toString() {
         return "    name = " + this.name +
-                ", type = " + this.type +
-                (this.hasDisplay ? ", display = " + this.display : "");
+                " | type = " + this.type +
+                (this.hasDisplay ? " | display = " + this.display : "");
     }
 }
