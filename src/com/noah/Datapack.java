@@ -1,6 +1,8 @@
 package com.noah;
 
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Objects;
 
 public class Datapack {
     String name;
@@ -23,12 +25,39 @@ public class Datapack {
 
     @Override
     public String toString() {
-        StringBuilder allVars = new StringBuilder();
+//        StringBuilder allVars = new StringBuilder();
+        ArrayList<Variable> vars = new ArrayList<>();
         for (MCFile f : this.files) {
-            allVars.append(f.toString());
+//            allVars.append(f.toString());
+            vars.addAll(f.varsInFile);
         }
+        vars = sort(vars);
+
+
+        StringBuilder allVars = new StringBuilder();
+        for (Variable v : vars)
+            allVars.append(v.toString()).append("\n");
+
+
         return "Datapack [" + this.name + "] = {\n" +
                 allVars +
                 "}";
+    }
+
+    public static ArrayList<Variable> sort(ArrayList<Variable> vars) { // Method to Run
+        String[] list = new String[vars.size()];
+        for (int i = 0; i < vars.size(); i++)
+            list[i] = vars.get(i).name;
+
+        Arrays.sort(list);
+
+        ArrayList<Variable> sorted = new ArrayList<>();
+
+        for (int i = 0; i < vars.size(); i++)
+            for (int j = 0; j < vars.size(); j++)
+                if (Objects.equals(list[i], vars.get(j).name))
+                    sorted.add(vars.get(j));
+
+        return sorted;
     }
 }

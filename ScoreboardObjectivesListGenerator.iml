@@ -7,5 +7,13 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="swingx-action-1.6.8" level="project" />
+    <orderEntry type="library" name="swingx-autocomplete-1.6.8" level="project" />
+    <orderEntry type="library" name="swingx-common-1.6.8" level="project" />
+    <orderEntry type="library" name="swingx-core-1.6.8" level="project" />
+    <orderEntry type="library" name="swingx-graphics-1.6.8" level="project" />
+    <orderEntry type="library" name="swingx-painters-1.6.8" level="project" />
+    <orderEntry type="library" name="swingx-plaf-1.6.8" level="project" />
+    <orderEntry type="library" name="colorpicker-1.1" level="project" />
   </component>
 </module>
