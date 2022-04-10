@@ -1,1 +1,1 @@
-# DatapackScoreboardObjectivesListGenerator
+# Datapack Scoreboard Objectives List Generator
